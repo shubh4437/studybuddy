@@ -2,14 +2,14 @@ import React from "react";
 import Navbar from "./components/Navbar";
 import Banner from "./components/Banner";
 import Footer from "./components/Footer";
-import Tools from "./components/Tools";
+import FreeNotes from "./components/freeNotes";
 
 function App() {
   return (
     <>
       <Navbar />
       <Banner />
-      <Tools />
+      <FreeNotes />
       <Footer />
     </>
   );

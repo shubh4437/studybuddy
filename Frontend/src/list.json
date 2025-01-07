@@ -4,7 +4,7 @@
     "name": "Stats notes",
     "title": "Stats-1&2 notes",
     "price": 0,
-    "category": "Stat",
+    "category": "Free",
     "image": "https://th.bing.com/th/id/OIP.KcKB0QgSKzEZ8MTtcbY5FwHaE7?w=265&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7"
   },
 
@@ -13,7 +13,7 @@
     "name": "Math notes",
     "title": "Math-1&2 notes",
     "price": 0,
-    "category": "Math",
+    "category": "Free",
     "image": "https://th.bing.com/th/id/OIP.I0ehhkeCT40IRNvecnEHSQHaEK?w=304&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7"
   },
 
@@ -22,7 +22,7 @@
     "name": "English notes",
     "title": "English-1&2 notes",
     "price": 0,
-    "category": "English",
+    "category": "Free",
     "image": "https://th.bing.com/th/id/OIP.OQM5s2z8OWEToD42RZOS0gHaEK?w=310&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7"
   },
 
@@ -31,7 +31,7 @@
     "name": "CT notes",
     "title": "CT notes",
     "price": 0,
-    "category": "CT",
+    "category": "Free",
     "image": "https://th.bing.com/th/id/OIP.ixSKQxGAtH8D6WeohpoTeAHaEK?w=285&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7"
   },
 
@@ -40,7 +40,7 @@
     "name": "Python notes",
     "title": "Python notes",
     "price": 0,
-    "category": "Python",
+    "category": "Free",
     "image": "https://th.bing.com/th/id/OIP.ueJ50PRDhW6hdcSO1GiCWgHaEK?w=317&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7"
   },
   {
@@ -48,7 +48,23 @@
     "name": "Javascript notes",
     "title": "Javascript notes",
     "price": 0,
-    "category": "Javascript",
+    "category": "Free",
+    "image": "https://th.bing.com/th/id/OIP.ueJ50PRDhW6hdcSO1GiCWgHaEK?w=317&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7"
+  },
+  {
+    "id": 7,
+    "name": "Javascript notes",
+    "title": "Javascript notes",
+    "price": 0,
+    "category": "Paid",
+    "image": "https://th.bing.com/th/id/OIP.ueJ50PRDhW6hdcSO1GiCWgHaEK?w=317&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7"
+  },
+  {
+    "id": 8,
+    "name": "Javascript notes",
+    "title": "Javascript notes",
+    "price": 0,
+    "category": "Free",
     "image": "https://th.bing.com/th/id/OIP.ueJ50PRDhW6hdcSO1GiCWgHaEK?w=317&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7"
   }
 ]
