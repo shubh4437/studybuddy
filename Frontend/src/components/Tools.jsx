@@ -93,7 +93,9 @@ function Tools() {
               <h2 className="card-title">Subject</h2>
               <p>Download latest</p>
               <div className="card-actions justify-end">
-                <button className="btn btn-primary"><a href="" >Download</a></button>
+                <button className="btn btn-primary">
+                  <a href="">Download</a>
+                </button>
               </div>
             </div>
           </div>
